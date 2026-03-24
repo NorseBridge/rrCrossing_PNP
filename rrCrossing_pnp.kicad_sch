@@ -1497,7 +1497,40 @@
 			(embedded_fonts no)
 		)
 	)
-	(text ".tran 0.1ms 5s uic\n.ic V(/Q1_B)=4.2\n.ic V(/Q2_B)=5\n\n"
+	(text "Watch out for pin numbers not matching the netlist.\nSee Pin Assignments tab in the components properties Simulation Model."
+		(exclude_from_sim no)
+		(at 195.072 98.806 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left)
+		)
+		(uuid "4defba7f-b08e-4a61-9d39-d24605ce8ace")
+	)
+	(text "Generic transistor model did not work.\nThe detail of a better model is required."
+		(exclude_from_sim no)
+		(at 186.182 75.946 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left)
+		)
+		(uuid "92b1bc38-983c-42e3-b418-9d15f2478f2e")
+	)
+	(text "Learn the node name syntax from the spice netlist\nForward Slash is used with a label."
+		(exclude_from_sim no)
+		(at 147.32 54.864 0)
+		(effects
+			(font
+				(size 0.889 0.889)
+			)
+			(justify left)
+		)
+		(uuid "b123cb89-5a07-45e4-ad6e-3bb992f41447")
+	)
+	(text ".tran 0.1ms 5s uic\n.ic V(/Q1_B)=4.3\n.ic V(/Q2_B)=5\n\n"
 		(exclude_from_sim no)
 		(at 127 57.404 0)
 		(effects

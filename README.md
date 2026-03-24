@@ -1,2 +1,6 @@
-# rrCrossing_PNP
-KiCAD schematic an astable multivibrator using PNPs (with simulation)
+# rrCrossing\_PNP
+
+KiCAD schematic of an astable multivibrator using PNPs, with simulation.
+
+
+

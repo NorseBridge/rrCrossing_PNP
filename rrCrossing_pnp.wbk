@@ -1,10 +1,10 @@
 {
-  "last_sch_text_sim_command": ".tran 0.1ms 5s uic\n.ic V(/Q1_B)=4.2\n.ic V(/Q2_B)=5",
+  "last_sch_text_sim_command": ".tran 0.1ms 5s uic\n.ic V(/Q1_B)=4.3\n.ic V(/Q2_B)=5",
   "tabs": [
     {
       "analysis": "TRAN",
       "commands": [
-        ".tran 0.1ms 5s uic\n.ic V(/Q1_B)=4.2\n.ic V(/Q2_B)=5",
+        ".tran 0.1ms 5s uic\n.ic V(/Q1_B)=4.3\n.ic V(/Q2_B)=5",
         ".kicad adjustpaths",
         ".save all",
         ".probe alli",
